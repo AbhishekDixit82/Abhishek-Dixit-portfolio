@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Abhishek-Dixit-portfolio/static/css/main.8424e807.css",
+    "main.js": "/Abhishek-Dixit-portfolio/static/js/main.255983f6.js",
+    "static/js/787.1f11dfe9.chunk.js": "/Abhishek-Dixit-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/javascript.jpg": "/Abhishek-Dixit-portfolio/static/media/javascript.85be465d6ccbc06f1fcd.jpg",
+    "static/media/react.jpg": "/Abhishek-Dixit-portfolio/static/media/react.6d62eac5bafe2568974d.jpg",
+    "static/media/java.jpg": "/Abhishek-Dixit-portfolio/static/media/java.c3dbf7bd32c00f9b0103.jpg",
+    "static/media/css.jpg": "/Abhishek-Dixit-portfolio/static/media/css.e6c3b8dd9a5c20c20178.jpg",
+    "static/media/html5.jpg": "/Abhishek-Dixit-portfolio/static/media/html5.60b480723343b27bb346.jpg",
+    "static/media/htmlcssjs.jpg": "/Abhishek-Dixit-portfolio/static/media/htmlcssjs.3455bb49a5b9a6153b16.jpg",
+    "static/media/C programming.jpg": "/Abhishek-Dixit-portfolio/static/media/C programming.4b3e41f86ade20cba4cd.jpg",
+    "static/media/intrnship.jpg": "/Abhishek-Dixit-portfolio/static/media/intrnship.9de82b95e1e7ffe1c9a9.jpg",
+    "static/media/about.jpg": "/Abhishek-Dixit-portfolio/static/media/about.40029e409af5acf207a3.jpg",
+    "static/media/profile.jpg": "/Abhishek-Dixit-portfolio/static/media/profile.b0a93f926484c782927b.jpg",
+    "static/media/CID internship.jpg": "/Abhishek-Dixit-portfolio/static/media/CID internship.bbbc4a8183c67eb3b7ee.jpg",
+    "static/media/abhishek-cv.pdf": "/Abhishek-Dixit-portfolio/static/media/abhishek-cv.ae67120fbab4dcac8197.pdf",
+    "static/media/logo.png": "/Abhishek-Dixit-portfolio/static/media/logo.245d570b9c7e62889f70.png",
+    "index.html": "/Abhishek-Dixit-portfolio/index.html",
+    "main.8424e807.css.map": "/Abhishek-Dixit-portfolio/static/css/main.8424e807.css.map",
+    "main.255983f6.js.map": "/Abhishek-Dixit-portfolio/static/js/main.255983f6.js.map",
+    "787.1f11dfe9.chunk.js.map": "/Abhishek-Dixit-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8424e807.css",
+    "static/js/main.255983f6.js"
+  ]
+}
