@@ -121,27 +121,55 @@
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
-@media screen and (max-width: 992px) {
+/* Mobile devices */
+@media screen and (max-width: 767px) {
     .services__container {
-        grid-template-columns: repeat(2, 1fr);
-        column-gap: 1.5rem;
+      display: block;
     }
-}
-
-/* For medium devices */
-@media screen and (max-width: 768px) {
-    .services__container {
-        grid-template-columns: 1fr;
-    }
-
     .services__content {
-        padding: 3.5rem 1rem 1.25rem;
+      margin-bottom: 1rem;
     }
-
-    .services__icon {
-        font-size: 1.5rem;
+    .services__title {
+      font-size: 1.5rem;
     }
-}
+    .services__button {
+      margin-top: 0.5rem;
+    }
+    .services__modal {
+      top: 50%;
+      transform: translateY(-50%);
+      width: 80%;
+    }
+  }
+  
+  /* Tablets and small laptops */
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    .services__container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+    }
+    .services__modal {
+      top: 50%;
+      transform: translateY(-50%);
+      width: 60%;
+    }
+  }
+  
+  /* Larger laptops and desktops */
+  @media screen and (min-width: 1024px) {
+    .services__container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+    }
+    .services__modal {
+      top: 50%;
+      transform: translateY(-50%);
+      width: 50%;
+    }
+  }
+  
 
 /* For small devices */
 @media screen and (max-width: 576px) {
