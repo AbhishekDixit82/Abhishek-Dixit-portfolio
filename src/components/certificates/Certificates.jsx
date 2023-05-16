@@ -39,7 +39,7 @@ const Certificates = () => {
         </div>
         <div className="certificate">
           <img src={Java} alt="Certificate" />
-          <h3>JCore ava</h3>
+          <h3>Core Java</h3>
           <p>HackerRank</p>
           <p>April 2023</p>
         </div>
